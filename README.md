@@ -180,13 +180,6 @@ python manage.py runserver
 
 ---
 
-## 🧪 Testing
-
-* Manual testing for UI and workflows
-* Django test framework used for model and view testing
-
----
-
 ## 📈 Learning Outcomes
 
 * Hands-on experience with **Django MVT architecture**
