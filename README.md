@@ -69,17 +69,6 @@ This repository contains the complete source code for the **GreatKart** e-commer
 
 ---
 
-## 👥 Intended Audience
-
-| Role       | Usage Purpose                          |
-| ---------- | -------------------------------------- |
-| Developers | Understand Django project architecture |
-| Interns    | Learn full-stack Django development    |
-| Recruiters | Evaluate real-world internship project |
-| End Users  | Online shopping experience             |
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer    | Technology                         |
@@ -98,7 +87,7 @@ This repository contains the complete source code for the **GreatKart** e-commer
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Home.png)
 
 **Description:**
 Displays featured products, categories, and navigation options for users.
@@ -107,7 +96,7 @@ Displays featured products, categories, and navigation options for users.
 
 ### 🛍️ Store Page
 
-![Store Page](screenshots/store.png)
+![Store Page](Store.png)
 
 **Description:**
 Allows users to browse products, apply filters, and view product details.
@@ -116,7 +105,7 @@ Allows users to browse products, apply filters, and view product details.
 
 ### 🛒 Cart Page
 
-![Cart Page](screenshots/cart.png)
+![Cart Page](Cart.png)
 
 **Description:**
 Shows selected products with quantity control and total price calculation.
@@ -125,7 +114,7 @@ Shows selected products with quantity control and total price calculation.
 
 ### 💳 Checkout Page
 
-![Checkout Page](screenshots/checkout.png)
+![Checkout Page](checkout.png)
 
 **Description:**
 Secure checkout interface for order confirmation and payment processing.
